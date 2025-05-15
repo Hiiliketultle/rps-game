@@ -1,0 +1,69 @@
+
+.r{
+ background-image :url("../images/rocks.jfif")
+}
+
+.p{
+    background-image :url("../images/Paper.webp")
+   }
+   .s{
+    background-image :url("../images/scissors.webp")
+   }
+.rps{
+    
+    border: 5px solid black;
+    font-size: 5rem;
+    font-family: 'Arvo', 'cursive';
+    line-height: 2;
+    
+    color: blueviolet;
+    text-shadow: 3px 0 #DBEDF3;
+    border-radius: 15px;
+    display: inline-block;
+    width: 255px;
+    height: 255px;
+    text-align: center;
+    margin: 185px;
+    
+    
+
+}
+
+.h1{text-align: center;
+font-size: 80px;
+color: blueviolet;
+}
+.body{
+    background-image:url("../images/battle.jpg");
+    
+    background-repeat:no-repeat ;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+   
+}
+
+
+.btn{
+    margin-top: 50px;
+    display:block;
+    width:20%;
+    border: solid;
+    background-color: white;
+    padding-left: 30px;
+    padding-right:30px;
+    padding-top: 14px;
+    padding-bottom: 14px;
+    font-size:20px;
+    text-align: center;
+    text-align:center;
+    }
+
+ 
+
+p{
+    font-size:2rem;
+    color:blueviolet;
+    font-style:'Indie Flower' and cursive;
+        }
+
+                                                                    
